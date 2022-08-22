@@ -1,0 +1,112 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 40px;
+    color: gray;
+}
+
+.size {
+    color: rgba(255, 166, 0, 0.708);
+}
+
+p {
+    margin-bottom: 55px;
+}
+
+.food-item {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 15px 30px;
+    border-radius: 30px;
+    color: white;
+}
+
+.header-part {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding: 3%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.middle-part {
+    display: flex;
+    background-image: url(images/shapes/7.png);
+}
+
+.center {
+    text-align: center;
+}
+
+.align {
+    padding: 0px 350px 0px 350px;
+}
+
+.third-part {
+    display: flex;
+    padding: 1% 5% 5% 5%;
+    margin-left: 20px;
+}
+
+.half-width-pic {
+    width: 50%;
+    padding: 3%;
+    box-shadow: 1px 1px 3px 3px rgb(240, 236, 236);
+    margin-left: 3%;
+    margin-right: 3%;
+    border-radius: 15px;
+    border: 5px solid white;
+}
+
+.half-width-pic img {
+    width: 100%;
+}
+
+.last-part {
+    display: flex;
+    margin-left: 9%;
+    margin-right: 7.5%;
+    border-radius: 15px;
+    padding-left: 18%;
+    border: 5px solid white;
+    box-shadow: 1px 1px 3px 3px rgb(240, 236, 236);
+    margin-bottom: 50px;
+}
+
+.one-third {
+    width: 30%;
+}
+
+.background {
+    text-align: center;
+}
+
+.section {
+    height: 200px;
+    background-color: black;
+    padding-top: 40px;
+}
+
+.section small {
+    color: rgba(255, 255, 255, 0.765);
+}
+
+.gray {
+    color: gray;
+}
+
+h2 {
+    color: black;
+}
+
+.last-part h1 {
+    color: black;
+}
